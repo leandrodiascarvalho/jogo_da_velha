@@ -11,5 +11,5 @@
   </br>
 </ul>
 
-<img src="assets/img/imagem_projeto.png" alt="Jogo da velha" width="80" height="80">
+<img src="assets/img/imagem_projeto.png" alt="Jogo da velha" width="800" height="800">
 
